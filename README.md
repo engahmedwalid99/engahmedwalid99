@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1f6feb,100:00ff9c&height=230&section=header&text=Ahmed&fontSize=80&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20Enthusiast%20%E2%80%A2%20Cybersecurity%20Learner&descSize=18&descAlignY=60" width="100%" alt="header" />
 
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=00FF9C&center=true&vCenter=true&width=760&height=50&lines=Turning+ideas+into+real-world+software;Building+Full-Stack+Web+Applications;Exploring+AI+%26+Computer+Vision;Learning+Cybersecurity+every+day" alt="typing" />
-</a>
 
 <br/>
 

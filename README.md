@@ -14,9 +14,6 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-00ff9c?style=flat-square" alt="status" />
-<img src="https://img.shields.io/badge/Student-Developer-58a6ff?style=flat-square" alt="student" />
-
 </div>
 
 <br/>

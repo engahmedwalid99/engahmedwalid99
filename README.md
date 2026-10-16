@@ -125,12 +125,6 @@ A scalable **e-commerce marketplace** with a clean production-ready backend.
 
 <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117" alt="streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=00ff9c&line=00b4d8&point=ffffff&area=true&hide_border=true" width="98%" alt="activity" />
-
-<hr>
-
-<img src="footer.svg" width="100%" />
-
 
 </div>
 

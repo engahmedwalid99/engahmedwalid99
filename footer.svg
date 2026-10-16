@@ -1,0 +1,27 @@
+<svg width="1000" height="140" viewBox="0 0 1000 140" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="w" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00ff9c"/>
+      <stop offset="0.5" stop-color="#00b4d8"/>
+      <stop offset="1" stop-color="#a855f7"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#w)" fill-opacity="0.25" d="M0 70 Q125 20 250 70 T500 70 T750 70 T1000 70 V140 H0Z">
+    <animate attributeName="d" dur="6s" repeatCount="indefinite"
+      values="M0 70 Q125 20 250 70 T500 70 T750 70 T1000 70 V140 H0Z;
+              M0 70 Q125 120 250 70 T500 70 T750 70 T1000 70 V140 H0Z;
+              M0 70 Q125 20 250 70 T500 70 T750 70 T1000 70 V140 H0Z"/>
+  </path>
+  <path fill="url(#w)" fill-opacity="0.5" d="M0 90 Q125 50 250 90 T500 90 T750 90 T1000 90 V140 H0Z">
+    <animate attributeName="d" dur="4s" repeatCount="indefinite"
+      values="M0 90 Q125 130 250 90 T500 90 T750 90 T1000 90 V140 H0Z;
+              M0 90 Q125 50 250 90 T500 90 T750 90 T1000 90 V140 H0Z;
+              M0 90 Q125 130 250 90 T500 90 T750 90 T1000 90 V140 H0Z"/>
+  </path>
+  <path fill="url(#w)" d="M0 110 Q125 85 250 110 T500 110 T750 110 T1000 110 V140 H0Z">
+    <animate attributeName="d" dur="3s" repeatCount="indefinite"
+      values="M0 110 Q125 85 250 110 T500 110 T750 110 T1000 110 V140 H0Z;
+              M0 110 Q125 135 250 110 T500 110 T750 110 T1000 110 V140 H0Z;
+              M0 110 Q125 85 250 110 T500 110 T750 110 T1000 110 V140 H0Z"/>
+  </path>
+</svg>

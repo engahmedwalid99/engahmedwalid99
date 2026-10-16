@@ -1,0 +1,75 @@
+<svg width="1000" height="320" viewBox="0 0 1000 320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0a0e17"/>
+      <stop offset="1" stop-color="#111c33"/>
+    </linearGradient>
+    <linearGradient id="txt" x1="0" y1="0" x2="1" y2="0" spreadMethod="reflect">
+      <stop offset="0" stop-color="#00ff9c"/>
+      <stop offset="0.5" stop-color="#00b4d8"/>
+      <stop offset="1" stop-color="#a855f7"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="-1 0" to="1 0" dur="7s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00ff9c" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#00ff9c" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#00ff9c" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="o1"><stop offset="0" stop-color="#00ff9c" stop-opacity="0.35"/><stop offset="1" stop-color="#00ff9c" stop-opacity="0"/></radialGradient>
+    <radialGradient id="o2"><stop offset="0" stop-color="#a855f7" stop-opacity="0.35"/><stop offset="1" stop-color="#a855f7" stop-opacity="0"/></radialGradient>
+    <radialGradient id="o3"><stop offset="0" stop-color="#00b4d8" stop-opacity="0.35"/><stop offset="1" stop-color="#00b4d8" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#1c2740" stroke-width="1"/>
+    </pattern>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="round"><rect width="1000" height="320" rx="18"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#round)">
+    <rect width="1000" height="320" fill="url(#bg)"/>
+    <rect width="1000" height="320" fill="url(#grid)" opacity="0.6"/>
+
+    <circle r="170" fill="url(#o1)">
+      <animate attributeName="cx" values="150;300;150" dur="9s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="80;220;80" dur="11s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="190" fill="url(#o2)">
+      <animate attributeName="cx" values="850;700;850" dur="10s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="250;90;250" dur="12s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="150" fill="url(#o3)">
+      <animate attributeName="cx" values="500;620;500" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="300;40;300" dur="13s" repeatCount="indefinite"/>
+    </circle>
+
+    <rect width="1000" height="3" fill="url(#line)" opacity="0.8">
+      <animate attributeName="y" values="-5;325" dur="5s" repeatCount="indefinite"/>
+    </rect>
+
+    <g font-family="'Courier New', Consolas, monospace" fill="#00ff9c" opacity="0.5" font-size="14">
+      <text x="40" y="50">&lt;/&gt;</text>
+      <text x="930" y="60">{ }</text>
+      <text x="60" y="285">01010</text>
+      <text x="880" y="285">#!/bin</text>
+    </g>
+
+    <text x="500" y="120" text-anchor="middle" font-family="'Courier New', Consolas, monospace" font-size="18" fill="#7d8aa6" letter-spacing="6">
+      &lt; HELLO WORLD, I'M /&gt;
+    </text>
+
+    <text x="500" y="205" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="96" font-weight="900" fill="url(#txt)" filter="url(#glow)" letter-spacing="8">AHMED</text>
+
+    <g font-family="'Courier New', Consolas, monospace" font-size="17" text-anchor="middle">
+      <rect x="215" y="237" width="180" height="34" rx="17" fill="none" stroke="#00ff9c" stroke-width="1.5"/>
+      <text x="305" y="259" fill="#00ff9c">Full-Stack Dev</text>
+      <rect x="410" y="237" width="180" height="34" rx="17" fill="none" stroke="#00b4d8" stroke-width="1.5"/>
+      <text x="500" y="259" fill="#00b4d8">AI Enthusiast</text>
+      <rect x="605" y="237" width="180" height="34" rx="17" fill="none" stroke="#a855f7" stroke-width="1.5"/>
+      <text x="695" y="259" fill="#a855f7">Cybersecurity</text>
+    </g>
+  </g>
+  <rect x="1" y="1" width="998" height="318" rx="18" fill="none" stroke="#1f6feb" stroke-opacity="0.5" stroke-width="2"/>
+</svg>

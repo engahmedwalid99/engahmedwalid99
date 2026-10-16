@@ -14,7 +14,6 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=1f6feb&style=flat-square" alt="views" />
 <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-00ff9c?style=flat-square" alt="status" />
 <img src="https://img.shields.io/badge/Student-Developer-58a6ff?style=flat-square" alt="student" />
 

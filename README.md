@@ -12,8 +12,6 @@
 <a href="mailto:eng.ahmedwalid69@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://YOUR_PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-00b4d8?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 
-<br/><br/>
-
 </div>
 
 <br/>

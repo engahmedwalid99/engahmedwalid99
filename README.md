@@ -16,7 +16,7 @@
 
 <br/>
 
-## 👋 About Me
+## About Me
 
 I'm a student developer who **learns by building**. I turn ideas into real-world software, focusing on **Full-Stack Web Development**, while exploring **Artificial Intelligence**, **Computer Vision**, and **Cybersecurity**.
 

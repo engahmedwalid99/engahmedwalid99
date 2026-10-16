@@ -1,35 +1,48 @@
 <div align="center">
 
-<img src="assets/header.svg" alt="Ahmed" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1f6feb,100:00ff9c&height=230&section=header&text=Ahmed&fontSize=80&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20Enthusiast%20%E2%80%A2%20Cybersecurity%20Learner&descSize=18&descAlignY=60" width="100%" alt="header" />
+
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=00FF9C&center=true&vCenter=true&width=760&height=50&lines=Turning+ideas+into+real-world+software;Building+Full-Stack+Web+Applications;Exploring+AI+%26+Computer+Vision;Learning+Cybersecurity+every+day" alt="typing" />
+</a>
 
 <br/>
 
-<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://YOUR_PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-00b4d8?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://YOUR_PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-00b4d8?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=720&height=45&lines=I+turn+ideas+into+real-world+software;Full-Stack+%7C+AI+%7C+Computer+Vision;Breaking+things+to+learn+security" alt="typing" />
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=1f6feb&style=flat-square" alt="views" />
+<img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-00ff9c?style=flat-square" alt="status" />
+<img src="https://img.shields.io/badge/Student-Developer-58a6ff?style=flat-square" alt="student" />
 
 </div>
 
 <br/>
 
+## 👋 About Me
+
+I'm a student developer who **learns by building**. I turn ideas into real-world software, focusing on **Full-Stack Web Development**, while exploring **Artificial Intelligence**, **Computer Vision**, and **Cybersecurity**.
+
+```js
+const ahmed = {
+  role: "Full-Stack Developer",
+  focus: ["Web Development", "AI", "Computer Vision", "Cybersecurity"],
+  building: "AI-powered tools & scalable web apps",
+  learning: ["TypeScript", "System Design", "Security Fundamentals"],
+  workflow: "Build → Experiment → Learn → Improve",
+  funFact: "I don't just learn technologies, I ship something with them 🚀",
+};
+```
+
 <div align="center">
-<img src="assets/terminal.svg" alt="terminal" width="85%" />
-</div>
 
-<br/>
-
-## ✨ About
-
-I'm a student developer who learns **by building**. I design full-stack products, experiment with **AI & Computer Vision**, and study **Cybersecurity** to build software that's not only fast, but safe.
-
-<div align="center">
-
-| 🔭 Building | 🌱 Learning | 🤝 Open to | ⚡ Fun fact |
+| 🔭 Building | 🌱 Learning | 🤝 Open to | 💬 Ask me about |
 |:---:|:---:|:---:|:---:|
-| AI-powered tools<br/>Scalable web apps | TypeScript<br/>System design<br/>Security | Open-source<br/>Web · AI · SaaS | I don't just learn tech,<br/>I ship with it 🚀 |
+| AI-powered tools<br/>Scalable web apps | TypeScript<br/>System design<br/>Security basics | Open-source<br/>Web · AI · SaaS | JavaScript · Node.js<br/>PHP · MongoDB · MySQL |
 
 </div>
 
@@ -41,28 +54,28 @@ I'm a student developer who learns **by building**. I design full-stack products
 
 <table>
 <tr>
-<td align="center" width="140"><b>Languages</b></td>
-<td><img src="https://skillicons.dev/icons?i=js,ts,php,python,html,css&theme=dark" /></td>
+<td align="center" width="130"><b>Languages</b></td>
+<td><img src="https://skillicons.dev/icons?i=js,ts,php,python,html,css&theme=dark" alt="languages" /></td>
 </tr>
 <tr>
 <td align="center"><b>Frontend</b></td>
-<td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite&theme=dark" /></td>
+<td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite&theme=dark" alt="frontend" /></td>
 </tr>
 <tr>
 <td align="center"><b>Backend</b></td>
-<td><img src="https://skillicons.dev/icons?i=nodejs,express,laravel&theme=dark" /></td>
+<td><img src="https://skillicons.dev/icons?i=nodejs,express,laravel&theme=dark" alt="backend" /></td>
 </tr>
 <tr>
 <td align="center"><b>Databases</b></td>
-<td><img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" /></td>
+<td><img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" alt="databases" /></td>
 </tr>
 <tr>
 <td align="center"><b>AI & Vision</b></td>
-<td><img src="https://skillicons.dev/icons?i=python,opencv&theme=dark" /> <code>YOLO</code> <code>LLMs</code> <code>Object Detection</code></td>
+<td><img src="https://skillicons.dev/icons?i=python,opencv&theme=dark" alt="ai" /> &nbsp;<code>YOLO</code> <code>LLMs</code> <code>Object Detection</code></td>
 </tr>
 <tr>
 <td align="center"><b>Tools</b></td>
-<td><img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,vercel,cloudflare&theme=dark" /></td>
+<td><img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,vercel,cloudflare&theme=dark" alt="tools" /></td>
 </tr>
 </table>
 
@@ -77,7 +90,7 @@ I'm a student developer who learns **by building**. I design full-stack products
 <td width="33%" valign="top">
 
 ### 🎥 AI CCTV Analysis
-Analyzes CCTV footage, **tracks people**, and detects suspicious activity in real time.
+Analyzes CCTV footage, **tracks people**, and detects suspicious activity.
 
 `Python` `OpenCV` `YOLO` `ByteTrack`
 
@@ -85,7 +98,7 @@ Analyzes CCTV footage, **tracks people**, and detects suspicious activity in rea
 <td width="33%" valign="top">
 
 ### 💼 AI Business Builder
-Turns raw ideas into **structured business plans** with AI for entrepreneurs.
+Turns raw ideas into **structured business plans** for entrepreneurs.
 
 `Node.js` `Express` `MongoDB`
 
@@ -109,12 +122,12 @@ A scalable **e-commerce marketplace** with a clean production-ready backend.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117" alt="stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="languages" />
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117" />
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117" alt="streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=00ff9c&line=00b4d8&point=ffffff&area=true&hide_border=true" width="98%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=00ff9c&line=00b4d8&point=ffffff&area=true&hide_border=true" width="98%" alt="activity" />
 
 </div>
 
@@ -124,6 +137,6 @@ A scalable **e-commerce marketplace** with a clean production-ready backend.
 
 ### 💬 Let's build something great together
 
-<img src="assets/footer.svg" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9c,60:1f6feb,100:0d1117&height=120&section=footer" width="100%" alt="footer" />
 
 </div>

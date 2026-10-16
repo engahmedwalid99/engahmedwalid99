@@ -46,6 +46,9 @@ const ahmed = {
 
 <br/>
 
+<img src="terminal.svg" alt="Ahmed" width="100%" />
+
+
 ## 🧰 Tech Stack
 
 <div align="center">
